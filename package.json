@@ -1,0 +1,37 @@
+{
+  "name": "wpm-session",
+  "version": "0.0.1",
+  "description": "微信小程序 localStorage封装，实现本地存储可设置有效期",
+  "main": "./build/index.js",
+  "keywords": [
+    "localStorage",
+    "sessionStorage",
+    "wx.setStorageSync",
+    "wx.removeStorageSync",
+    "wx.clearStorage",
+    "wx.getStorageSync",
+    "wpm",
+    "session",
+    "wpm-session",
+    "微信缓存",
+    "微信",
+    "微信小程序"
+  ],
+  "homepage": "https://github.com/LNFHZT/wpm-session",
+  "bugs": {
+    "url": "https://github.com/LNFHZT/wpm-session/issues",
+    "email": "LNFHZT@163.com"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npm run tswatch",
+    "tsc": "tsc",
+    "tswatch": "tsc -w"
+  },
+  "author": "vis",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/qs": "^6.5.3"
+  }
+}

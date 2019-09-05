@@ -1,6 +1,6 @@
 {
   "name": "wpm-session",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "微信小程序 localStorage封装，实现本地存储可设置有效期",
   "main": "./build/index.js",
   "keywords": [

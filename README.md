@@ -1,4 +1,4 @@
-# WPM-router
+# WPM-session
 wpm-session 对微信小程序本地缓存进行再一次封装，本地缓存可设置有效期
 
 ## 安装

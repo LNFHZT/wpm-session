@@ -20,7 +20,7 @@ session.put('test',{test:1});
 
 ```
 ## 简介
-wpm-session  可单独引入  直接router调用所有内置方法
+wpm-session  可单独引入  直接session调用所有内置方法
 也可以挂载再[wpm-wx](https://www.npmjs.com/package/wpm-wx)依赖中,
 内置支持wpm 引入方式
 ```
